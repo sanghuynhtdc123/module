@@ -70,4 +70,11 @@ body {
   .module-6__item-info {
     margin-bottom: 50px;
   }
+  .module-6__item-img-m {
+    width: 80%;
+  }
+  .module-6 .row.sm-gutter .col {
+    padding-left: 0;
+    padding-right: 0;
+  }
 }
