@@ -31,7 +31,7 @@ $url_path = str_replace('\\', '/', $url_path);
                         </div>
                         <div class="col l-3 m-6 c-12">
                             <div class="module-6__item module-6__item-align">
-                                <img src="./images/h1-img-5.jpg" alt="" class="module-6__item-img">
+                                <img src="./images/h1-img-5.jpg" alt="" class="module-6__item-img module-6__item-img-m">
                             </div>
                         </div>
                     </div>
